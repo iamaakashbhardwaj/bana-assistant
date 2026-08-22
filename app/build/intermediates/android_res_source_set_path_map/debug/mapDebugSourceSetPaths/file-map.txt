@@ -1,0 +1,8 @@
+com.bana.assistant.app-pngs-0 /workspaces/bana-assistant/app/build/generated/res/pngs/debug
+com.bana.assistant.app-updated_navigation_xml-1 /workspaces/bana-assistant/app/build/generated/updated_navigation_xml/debug
+com.bana.assistant.app-packageDebugResources-2 /workspaces/bana-assistant/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.bana.assistant.app-packageDebugResources-3 /workspaces/bana-assistant/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.bana.assistant.app-debug-4 /workspaces/bana-assistant/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.bana.assistant.app-debug-5 /workspaces/bana-assistant/app/src/debug/res
+com.bana.assistant.app-main-6 /workspaces/bana-assistant/app/src/main/res
+gradleHome-0 /home/codespace/.gradle
